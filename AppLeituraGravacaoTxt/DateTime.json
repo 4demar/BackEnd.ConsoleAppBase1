@@ -1,0 +1,173 @@
+﻿[
+    {
+        "_id": "62b5cedaea1cd22fecde814f",
+        "Hex": "303B6EE840B12A00000004E5",
+        "Barcode": "9000011814161",
+        "Tid": "E2801160200073083A13090E",
+        "NomeReader": "Lab Mesa",
+        "Data": "2022-06-24T09:28:58.162-03:00",
+        "IdReader": "6245d71c83c50c39a0d2aef0",
+    },
+    {
+        "_id": "62b5cedaea1cd22fecde814d",
+        "Hex": "303B6EE840224A0000000B54",
+        "Barcode": "9000010351124",
+        "Tid": "E2801160200071F83A11090E",
+        "NomeReader": "Lab Mesa",
+        "Data": "2022-06-24T09:50:58.162-03:00",
+        "IdReader": "6245d71c83c50c39a0d2aef0"
+    },
+
+    {
+        "_id": "62b5cedaea1cd22fecde814e",
+        "Hex": "303B6EE840B4988000000C5B",
+        "Barcode": "9000011849309",
+        "Tid": "E2801160200063283A13090E",
+        "NomeReader": "Lab Mesa",
+        "Data": "2022-06-24T09:55:58.162-03:00",
+        "IdReader": "6245d71c83c50c39a0d2aef0"
+    },
+
+    {
+        "_id": "62b5cedaea1cd22fecde814c",
+        "Hex": "303B6EE84077A5C000000002",
+        "Barcode": "9000011225196",
+        "Tid": "E2801160200073583A13090E",
+        "NomeReader": "Lab Mesa",
+        "Data": "2022-06-24T10:00:58.162-03:00",
+        "IdReader": "6245d71c83c50c39a0d2aef0"
+    },
+
+    {
+        "_id": "62b5cedaea1cd22fecde8150",
+        "Hex": "303B6EE840753440000000AD",
+        "Barcode": "9000011200179",
+        "Tid": "E280116020006259D53D0915",
+        "NomeReader": "Lab Mesa",
+        "Data": "2022-06-24T10:01:58.162-03:00",
+        "IdReader": "6245d71c83c50c39a0d2aef0"
+    },
+
+    {
+        "_id": "62b5cedaea1cd22fecde815b",
+        "Hex": "303A0592C3B2EE4000000002",
+        "Barcode": "7898378707002",
+        "Tid": "E2801160200073383A13090E",
+        "NomeReader": "Lab Mesa",
+        "Data": "2022-06-24T10:28:58.162-03:00",
+        "IdReader": "6245d71c83c50c39a0d2aef0"
+    },
+
+    {
+        "_id": "62b5cedaea1cd22fecde815a",
+        "Hex": "303A0593014BBC0000000021",
+        "Barcode": "6200000121734",
+        "Tid": "E280116020007122EDDF090B",
+        "NomeReader": "Lab Mesa",
+        "Data": "2022-06-24T10:38:58.244-03:00",
+        "IdReader": "6245d71c83c50c39a0d2aef0"
+    },
+
+    {
+        "_id": "62b5cedaea1cd22fecde8152",
+        "Hex": "3039FEE5C062C800000002DD",
+        "Barcode": "9000001490689",
+        "Tid": "E2801160200073A0EE60090B",
+        "NomeReader": "Lab RFID",
+        "Data": "2022-06-24T11:00:58.162-03:00",
+        "IdReader": "6296635f5a88e00d1b562f60"
+    },
+
+    {
+        "_id": "62b5cedaea1cd22fecde8158",
+        "Hex": "303A0592C3940D00000036E4",
+        "Barcode": "6200000128597",
+        "Tid": "E2801191200062F9903F0304",
+        "NomeReader": "Lab RFID",
+        "Data": "2022-06-24T11:28:58.166-03:00",
+        "IdReader": "6296635f5a88e00d1b562f60"
+    },
+
+    {
+        "_id": "62b5cedaea1cd22fecde8159",
+        "Hex": "303A058EC28DD680000000A6",
+        "Barcode": "9000009696991",
+        "Tid": "E280116020006490EA6D09FB",
+        "NomeReader": "Lab RFID",
+        "Data": "2022-06-24T11:38:58.244-03:00",
+        "IdReader": "6296635f5a88e00d1b562f60"
+    },
+
+    {
+        "_id": "62b5cedaea1cd22fecde8156",
+        "Hex": "303A058F41A7F08000000356",
+        "Barcode": "889842470192",
+        "Tid": "E2801190200078D0BCEC0302",
+        "NomeReader": "Lab RFID",
+        "Data": "2022-06-24T11:48:58.244-03:00",
+        "IdReader": "6296635f5a88e00d1b562f60"
+    },
+
+    {
+        "_id": "62b5cedaea1cd22fecde8155",
+        "Hex": "303A058EC28DD680000002A7",
+        "Barcode": "9000009696991",
+        "Tid": "E280116020006053EA9009FB",
+        "NomeReader": "Lab RFID",
+        "Data": "2022-06-27T11:48:58.166-03:00",
+        "IdReader": "6296635f5a88e00d1b562f60"
+    },
+
+    {
+        "_id": "62b5cedaea1cd22fecde8154",
+        "Hex": "303B6EE840D532C0000004AB",
+        "Barcode": "9000012183150",
+        "Tid": "E280116020007475BC990A88",
+        "NomeReader": "Lab RFID",
+        "Data": "2022-06-27T12:48:58.244-03:00",
+        "IdReader": "6296635f5a88e00d1b562f60"
+    },
+
+    {
+        "_id": "62b5cedaea1cd22fecde8157",
+        "Hex": "303A058F41A7F08000000367",
+        "Barcode": "889842470192",
+        "Tid": "E280119020006450BCE50302",
+        "NomeReader": "Lab RFID",
+        "Data": "2022-06-27T13:48:58.166-03:00",
+        "IdReader": "6296635f5a88e00d1b562f60"
+    },
+
+
+    {
+        "_id": "62b5cedaea1cd22fecde8153",
+        "Hex": "303B6EE840EB9C0000000002",
+        "Barcode": "9000012412649",
+        "Tid": "E2801160200072B45DE80913",
+        "NomeReader": "Lab RFID",
+        "Data": "2022-06-27T14:20:58.165-03:00",
+        "IdReader": "6296635f5a88e00d1b562f60"
+    },
+
+
+    {
+        "_id": "62b5cedaea1cd22fecde815c",
+        "Hex": "303A058EC28DD68000000364",
+        "Barcode": "9000009696991",
+        "Tid": "E280116020007043EA5A09FB",
+        "NomeReader": "Lab RFID",
+        "Data": "2022-06-27T14:48:58.244-03:00",
+        "IdReader": "6296635f5a88e00d1b562f60"
+    },
+
+
+    {
+        "_id": "62b5cedaea1cd22fecde8151",
+        "Hex": "303B6EE840ADFE80000009DA",
+        "Barcode": "9000011781708",
+        "Tid": "E2801160200063183A13090E",
+        "NomeReader": "Lab RFID",
+        "Data": "2022-06-27T15:00:58.159-03:00",
+        "IdReader": "6296635f5a88e00d1b562f60"
+    }
+]
